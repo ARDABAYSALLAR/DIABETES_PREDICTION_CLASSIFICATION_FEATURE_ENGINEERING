@@ -12,6 +12,8 @@
  in the USA.
  The target variable is specified as "outcome"; 1 indicates positive
  diabetes test result, 0 indicates negative.
+ 
+### For further information about the study check the link : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2245318/pdf/procascamc00018-0276.pdf
 
 ## FEATURES :
 #### Pregnancies: Number of pregnancies
